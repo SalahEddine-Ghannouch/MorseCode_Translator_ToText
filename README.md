@@ -1,6 +1,6 @@
 # MorseCode_Translator_ToText
 
-![MorseCode_Translator_ToText Logo](logo.png)
+![MorseCode_Translator_ToText Logo]([logo.png](https://raw.githubusercontent.com/SalahEddine-Ghannouch/MorseCode_Translator_ToText/main/MorseTrans/App.PNG))
 
 ## Description
 
